@@ -85,10 +85,6 @@ Passionate about coding and learning new tech
 
 ---
 
-🤝 Connect with Me
-
-GitHub: github.com/your-username
-
 
 
 ---
