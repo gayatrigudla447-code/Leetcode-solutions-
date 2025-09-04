@@ -1,4 +1,4 @@
-# Leetcode-solutions-
+Hackerrank solutions 
 💻 Gayatri's Coding Practice Repository
 
 Welcome to my GitHub repository where I practice coding in **C, Data Structures, Python, and SQL**.  
